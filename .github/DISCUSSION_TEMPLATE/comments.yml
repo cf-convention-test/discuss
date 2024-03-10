@@ -1,7 +1,7 @@
 body:
 - type: textarea
-    attributes:
-      label: |
+  attributes:
+    label: |
         Start a discussion about some aspect of CF that you think we should consider changing:
         how it could be improved,
         what's wrong with it, what its purposes should be,
