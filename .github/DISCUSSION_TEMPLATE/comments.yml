@@ -1,7 +1,7 @@
 body:
-- type: textarea
+- type: markdown
   attributes:
-    label: |
+    value: |
         Start a discussion about some aspect of CF that you think we should consider changing:
         how it could be improved,
         what's wrong with it, what its purposes should be,
@@ -12,3 +12,6 @@ body:
         by clicking on the cogwheel next to **Labels** on the top right of this form.
         Apply more than one label if it's unclear which is applicable.
         You can also add and remove labels after starting the discussion.
+- type: textarea
+  attributes:
+    label: Fish
